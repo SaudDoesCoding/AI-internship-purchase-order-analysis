@@ -1,0 +1,12 @@
+Download these libraries:
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+spacy
+langdetect
+arabic-reshaper
+python-bidi
+regex
+scikit-learn
