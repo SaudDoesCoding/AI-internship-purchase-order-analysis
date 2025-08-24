@@ -35,4 +35,11 @@ The Arabic cluster with the highest spend corresponded to bulk supplies, while E
 
 Future steps should include combining Arabic and English into one shared cluster, trying regression method to predict high-cost items before purchase. 
 
+Transparency & AI use: 
+
+In this assesment I have explored working with multilingual data for the first time as in all of my previous work has only had English alone and wanted to determinate the best approaches for processing it. I have used AI tools only for the next purposes: 
+- Suggesting the most effective command line instruction for certain lines such as processing Arabic charactersting
+- Review the code to identify and eliminate redundancy without altering the logica.
+
+All the plots and analyses were designed and implemented manually to ensure clarity and readability. AI was used solely as a guide for reviews and not to generate core work. 
 
